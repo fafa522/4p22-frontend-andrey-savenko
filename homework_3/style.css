@@ -1,0 +1,23 @@
+.main_title{
+    text-align: center;
+}
+.second_title{
+    width: 1500px;
+    margin-left:200px;
+    padding: 5px;
+    background-color: rgb(241, 248, 255);
+    text-align: center;
+    font-size: 25px;
+    font-family:sans-serif;
+}
+.red{background-color: rgb(238, 144, 160);
+}
+.yellow {background-color: yellow;}
+.blue {background-color: rgb(121, 206, 206);} 
+.green1 {background-color: greenyellow;}   
+.green2 {background-color: green;}
+.border {border: 1px solid rgb(0, 0, 0);
+}
+.center {text-align: center; } 
+.rast {line-height:0.1;}
+.text {text-indent:750%}

@@ -1,0 +1,134 @@
+.container {
+    position: relative;
+    width: 1600px;
+    height: 1200px;
+}
+.image {
+    position:absolute;
+    width:787.25px;
+    height: 1200px;
+    left: 0px;
+    top: 0px;
+}
+.about {
+    position:absolute;
+    width: 594px;
+    height:634.62px;
+    left: 865px;
+    top: 144px;
+}
+h1 {
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+    letter-spacing: 0.19em;
+}
+h2 {
+    font-family: 'GF+Didot:regular';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+}
+h3 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 275;
+    font-size: 30px;
+    line-height: 45px;
+}
+h4 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 275;
+    font-size: 20px;
+    line-height: 30px;
+}
+.wiew {
+    position:absolute;
+    width: 115.62px;
+    height: 37.62px;
+    left: 865px;
+    top: 820px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 275;
+    font-size: 20px;
+    line-height: 30px;
+    text-decoration-line: underline;
+}
+.wiew_1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 275;
+    font-size: 20px;
+    line-height: 30px;
+    position: absolute;
+    width: 460.79px;
+    height: 37.62px;
+    left: 865px;
+    top: 870px;
+}
+.price_new {
+    position:absolute;
+    width: 133px;
+    height: 72px;
+    left: 865px;
+    top: 920px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 275;
+    font-size: 48px;
+    line-height: 72px;
+}
+.price_old {
+    position: absolute;
+    width: 57px;
+    height: 30px;
+    left: 1020px;
+    top: 950px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 275;
+    font-size: 20px;
+    line-height: 30px;
+    text-decoration:line-through;
+}
+.addcart {
+    position: absolute;
+    width: 491.39px;
+    height: 90.28px;
+    left: 865px;
+    top: 1017px;
+    background: #D9D9D9;
+    border-radius: 9px;
+    cursor: pointer;
+}
+.poz{
+    position: absolute;
+    width: 137px;
+    height: 36px;
+    left: 1063.54px;
+    top: 1043.66px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 275;
+    font-size: 24px;
+    line-height: 36px;
+    cursor: pointer;
+}
+.poz_1 {
+    position: absolute;
+    width: 52.71px;
+    height: 58.31px;
+    left: 1020.54px;
+    top: 1021.66px;
+    cursor:pointer;
+    
+}
+a:visited {color:black;
+}
+a:link {color:black;
+}

@@ -1,0 +1,188 @@
+*,
+*::before,
+*::after { 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+}
+.mainbg {
+    background-color: #000000;
+}
+.head {
+    background-color: #fcec0c;
+    width: auto;
+    height: 60px;
+    margin: 0, 0 , 0, 0;
+    color:black;
+  
+}
+.headtext1{
+    font-family: 'Blender Pro';
+    font-size: 30px;
+    width: 250px;
+    height: 60px;
+    padding-top: 15px;
+    margin-left: 15px;
+    margin-right: 0;
+    text-transform: uppercase;
+    color:#000000; 
+}
+.headtext1:hover {
+    font-family: 'Blender Pro';
+    text-transform: uppercase;
+    color:#02d7f2; 
+}
+.block1 { display:flex; justify-content: space-evenly;}
+.cars {
+    font-family: 'Blender Pro';
+    font-size: 70px;
+    width: 250px;
+    height: 80px;
+    margin-left: 50px;
+    margin-top: 30px;
+    color:#fcec0c;
+    text-transform: uppercase;
+}
+.cars:hover {
+    font-family: 'Blender Pro';
+    font-size: 70px;
+    margin-left: 50px;
+    margin-top: 30px;
+    text-transform: uppercase;
+    color:#02d7f2; 
+}
+.img1 {
+    width: 440px; 
+    height: 220px;
+    padding-left: 9px;
+    padding-top: 6px;
+}
+.carop {
+    font-family: 'Blender Pro';
+    font-size: 35px;
+    color:#ff1111;
+    padding-left: 9px;
+}
+.carop1 {
+    font-family: 'Blender Pro';
+    font-size: 28px;
+    color:#ff1111;
+    padding-left: 9px
+}
+.carstoim {
+    font-family: 'Blender Pro';
+    font-size: 38px;
+    color:#ff1111;
+    padding-left: 9px;
+    width: 350px;
+    height: 60px;
+}
+a {color:#ff1111; text-decoration: none;}
+a:visited {color:#ff1111}
+a:active {color:#02d7f2}
+a:hover {color:#02d7f2}  
+.car1 {
+    width: 450px;
+    height: 350px;
+    margin-top: 80px;
+    background-color: #fcec0c;
+    background-image:linear-gradient(to top left, rgb(0, 0, 0) 6%,  #fcec0c 0.1%)
+
+} 
+.car2 {
+    width: 450px;
+    height: 350px;
+    margin-top: 80px;
+    background-color: #fcec0c;
+    background-image:linear-gradient(to top left, rgb(0, 0, 0) 6%,  #fcec0c 0.1%)
+
+}
+.car3 {
+    width: 450px;
+    height: 350px;
+    margin-top: 80px;
+    background-color: #fcec0c;
+    background-image:linear-gradient(to top left, rgb(0, 0, 0) 6%,  #fcec0c 0.1%)
+
+}
+.block2 { display:flex; justify-content: space-evenly;}
+.car4 {
+    width: 450px;
+    height: 350px;
+    margin-top: 150px;
+    background-color: #fcec0c;
+    background-image:linear-gradient(to top left, rgb(0, 0, 0) 6%,  #fcec0c 0.1%)
+
+}
+.car5 {
+    width: 450px;
+    height: 350px;
+    margin-top:150px;
+    background-color: #fcec0c;
+    background-image:linear-gradient(to top left, rgb(0, 0, 0) 6%,  #fcec0c 0.1%)
+
+}
+.car6 {
+    width: 450px;
+    height: 350px;
+    margin-top: 150px;
+    background-color: #fcec0c;
+    background-image:linear-gradient(to top left, rgb(0, 0, 0) 6%,  #fcec0c 0.1%)
+
+}
+.moto {
+    font-family: 'Blender Pro';
+    font-size: 70px;
+    width: 250px;
+    height: 80px;
+    margin-left: 50px;
+    margin-top: 150px;
+    color:#fcec0c;
+    text-transform: uppercase;
+    margin: 50px;
+}
+.moto:hover {
+    font-family: 'Blender Pro';
+    font-size: 70px;
+    text-transform: uppercase;
+    color:#02d7f2;
+}
+.block3 {display:flex; justify-content: space-evenly;}
+.moto1 {
+    width: 450px;
+    height: 350px;
+    margin-top: 80px;
+    background-color: #fcec0c;
+    background-image:linear-gradient(to top left, rgb(0, 0, 0) 6%,  #fcec0c 0.1%)
+    
+}
+.moto2 {
+    width: 450px;
+    height: 350px;
+    margin-top: 80px;
+    background-color: #fcec0c;
+    background-image:linear-gradient(to top left, rgb(0, 0, 0) 6%,  #fcec0c 0.1%)
+    
+}
+.moto3 {
+    width: 450px;
+    height: 350px;
+    margin-top: 80px;
+    background-color: #fcec0c;
+    background-image:linear-gradient(to top left, rgb(0, 0, 0) 6%,  #fcec0c 0.1%)
+    
+}
+.footer {
+    background-color: #fcec0c;
+    width: auto;
+    height: 50px;
+    margin-top: 90px;
+}
+.footertext {
+    font-size: 30px;
+    font-family: 'Blender Pro';
+    text-align: end;
+    padding-top: 6px;
+    padding-right: 10px;
+    
+}

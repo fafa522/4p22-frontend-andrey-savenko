@@ -85,24 +85,23 @@ a:hover {color:#02d7f2}
     width: 450px;
     height: 350px;
     margin-top: 80px;
-    background-color: #fcec0c;
-    background-image:linear-gradient(to top left, rgb(0, 0, 0) 6%,  #fcec0c 0.1%)
-
+    background: rgb(0, 0, 0);
+    background-image:linear-gradient(315deg,rgb(0, 0, 0)6%, #fcec0c 5%);
 } 
 .car2 {
     width: 450px;
     height: 350px;
     margin-top: 80px;
-    background-color: #fcec0c;
-    background-image:linear-gradient(to top left, rgb(0, 0, 0) 6%,  #fcec0c 0.1%)
+    background: rgb(0, 0, 0);
+    background-image:linear-gradient(315deg,rgb(0, 0, 0)6%, #fcec0c 5%);
 
 }
 .car3 {
     width: 450px;
     height: 350px;
     margin-top: 80px;
-    background-color: #fcec0c;
-    background-image:linear-gradient(to top left, rgb(0, 0, 0) 6%,  #fcec0c 0.1%)
+    background: rgb(0, 0, 0);
+    background-image:linear-gradient(315deg,rgb(0, 0, 0)6%, #fcec0c 5%);
 
 }
 .block2 { display:flex; justify-content: space-evenly;}
@@ -110,24 +109,24 @@ a:hover {color:#02d7f2}
     width: 450px;
     height: 350px;
     margin-top: 150px;
-    background-color: #fcec0c;
-    background-image:linear-gradient(to top left, rgb(0, 0, 0) 6%,  #fcec0c 0.1%)
+    background: rgb(0, 0, 0);
+    background-image:linear-gradient(315deg,rgb(0, 0, 0)6%, #fcec0c 5%);
 
 }
 .car5 {
     width: 450px;
     height: 350px;
     margin-top:150px;
-    background-color: #fcec0c;
-    background-image:linear-gradient(to top left, rgb(0, 0, 0) 6%,  #fcec0c 0.1%)
+    background: rgb(0, 0, 0);
+    background-image:linear-gradient(315deg,rgb(0, 0, 0)6%, #fcec0c 5%);
 
 }
 .car6 {
     width: 450px;
     height: 350px;
     margin-top: 150px;
-    background-color: #fcec0c;
-    background-image:linear-gradient(to top left, rgb(0, 0, 0) 6%,  #fcec0c 0.1%)
+    background: rgb(0, 0, 0);
+    background-image:linear-gradient(315deg,rgb(0, 0, 0)6%, #fcec0c 5%);
 
 }
 .moto {
@@ -152,24 +151,24 @@ a:hover {color:#02d7f2}
     width: 450px;
     height: 350px;
     margin-top: 80px;
-    background-color: #fcec0c;
-    background-image:linear-gradient(to top left, rgb(0, 0, 0) 6%,  #fcec0c 0.1%)
+    background: rgb(0, 0, 0);
+    background-image:linear-gradient(315deg,rgb(0, 0, 0)6%, #fcec0c 5%);
     
 }
 .moto2 {
     width: 450px;
     height: 350px;
     margin-top: 80px;
-    background-color: #fcec0c;
-    background-image:linear-gradient(to top left, rgb(0, 0, 0) 6%,  #fcec0c 0.1%)
+    background: rgb(0, 0, 0);
+    background-image:linear-gradient(315deg,rgb(0, 0, 0)6%, #fcec0c 5%);
     
 }
 .moto3 {
     width: 450px;
     height: 350px;
     margin-top: 80px;
-    background-color: #fcec0c;
-    background-image:linear-gradient(to top left, rgb(0, 0, 0) 6%,  #fcec0c 0.1%)
+    background: rgb(0, 0, 0);
+    background-image:linear-gradient(315deg,rgb(0, 0, 0)6%, #fcec0c 5%);
     
 }
 .footer {

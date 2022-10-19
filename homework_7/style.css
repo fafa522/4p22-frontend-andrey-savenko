@@ -79,6 +79,7 @@ input::placeholder {
     font-weight: 700;
     font-size: 24px; 
     color: #FFFFFF;  
+    border: none;
 }
 .form__checkbox {
     position: absolute;

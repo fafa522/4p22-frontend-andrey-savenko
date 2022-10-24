@@ -348,7 +348,7 @@ textarea::placeholder {
         height: 875px;
         background: #FFFFFF;
         box-shadow: 0px 0px 40px 10px #00000040;
-        margin: 0 auto;
+        margin: 100px auto;
         display: flex;
         flex-direction: column;
         padding: 26px 45px 37px 45px;

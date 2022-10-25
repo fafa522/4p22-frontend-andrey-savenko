@@ -18,6 +18,8 @@ body {
 }
 .header__icon {
     margin-right: calc(30 / 1440 * 100vw);
+    width: calc(222 / 1440 * 100vw);
+    height: calc(50 / 1440 * 100vw);
 }
 .header__logo {
     font-size: calc(36 / 1440 * 100vw);
@@ -139,6 +141,8 @@ input::placeholder {
     }
     .header__icon {
         margin-right: calc(30 / 768 * 100vw);
+        width: calc(129 / 768 * 100vw);
+        height: calc(29 / 768 * 100vw);
     }
     .header__logo {
         font-size: calc(24 / 768 * 100vw);

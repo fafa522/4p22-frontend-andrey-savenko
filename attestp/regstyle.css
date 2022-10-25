@@ -18,6 +18,8 @@ body {
 }
 .header__icon {
     margin-right: calc(30 / 1440 * 100vw);
+    width: calc(222 / 1440 * 100vw);
+    height: calc(50 / 1440 * 100vw);
 }
 .header__logo {
     font-size: calc(36 / 1440 * 100vw);
@@ -326,6 +328,8 @@ textarea::placeholder {
     }
     .header__icon {
         margin-right: calc(30 / 768 * 100vw);
+        width: calc(129 / 768 * 100vw);
+        height: calc(29 / 768 * 100vw);
     }
     .header__logo {
         font-size: calc(24 / 768 * 100vw);
@@ -337,18 +341,19 @@ textarea::placeholder {
     .menu-link__reg {
         text-decoration: none;
         color: #787878;
+        color: #1A226B;
     }
     .menu-link__log {
         text-decoration: none;
-        color: #1A226B;
+        color: #787878;
         margin-left: calc(33.792 / 768 * 100vw);
     }
     .container__main {
-        width: calc(600 / 769 * 100vw);
+        width: calc(600 / 768 * 100vw);
         height: 875px;
         background: #FFFFFF;
         box-shadow: 0px 0px 40px 10px #00000040;
-        margin: 100px auto;
+        margin: 90px auto;
         display: flex;
         flex-direction: column;
         padding: 26px 45px 37px 45px;

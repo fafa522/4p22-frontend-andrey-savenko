@@ -477,7 +477,7 @@ textarea::placeholder {
     } 
     .button__input {
         margin: 0 auto;
-        width: calc(1px + 179 * (100vw / 768));
+        width: calc(179px + 1 * (100vw / 768));;
         height: 52px;
         background: #1A226B;
         font-family: 'Roboto';

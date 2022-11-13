@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./regstyle.css">
+    <link href="https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic" rel="stylesheet" />
+    <title>registration</title>
+</head>
+<body>
+    <header class="header">
+        <img src="./img/logo1.png" alt="logo" class="header__icon"></img>
+        <div class="header__logo">PCS Frontend</div>
+        <div class="header__menu">
+            <a href="./index.html" class="menu-link__reg">Регистрация</a>
+            <a href="./login.html" class="menu-link__log">Вход</a>
+        </div>
+    </header>
+    <div class="container__main">
+        <div class="main-content__title">Регистрация</div>
+        <form>
+            <div class="email-wrap">
+                <label class="email-text" for="email">* Email</label>
+                <span class="main-email__error" id="mail__error"></span>
+            </div>
+            <input class="main__input-email" id="email" type="email" name="email" placeholder="Введите email"></input>
+            <div class="password-wrap">
+                <label class="password-text" for="password">* Пароль</label>
+                <span class="main__password-error" id="password__error"></span>
+            </div>
+            <input class="main__input-password" id="password" type="password" name="password" placeholder="Введите пароль"></input>
+            <div class="passconf-wrap">
+                <label class="passconf-text" for="password-confirm">* Подтверждение пароля</label>
+                <span class="main__password-confirmerror" id="passwordconf__error"></span>
+            </div>
+            <input class="main-input__password__conf" type="password" id="password-confirm" name="password-confirmation" placeholder="Подтвердите пароль">
+            <div class="radio__wrap">
+                <div class="radio__name">Пол</div>
+                <div class="radio__man">
+                    <input class="radio__input-man" type="radio" name="gender" id="man" value="MAN">
+                    <label class="radio__text-man" for="man">Мужчина</label>
+                </div>
+                <div class="radio__woman">
+                    <input class="radio__input-woman" type="radio" name="gender" id="woman" value="WOMAN">
+                    <label class="radio__text-woman" for="woman">Женщина</label>
+                </div>
+            </div>
+            <div class="textarea__wrap">
+                <div class="textarea-text__style">О себе</div>
+                <textarea class="textarea__text" name="comment" id="comment" contenteditable="false" placeholder="Расскажите о себе..."></textarea>
+            </div>
+            <div class="form__checkbox">
+                <input id="checkbox" type="checkbox">
+                <label id="checkbox" for="checkbox" name="checkbox" value="black">Я согласен получать уведомления на почту</label>
+            </div>
+            <div class="button__wrap">
+                <button id="button__input" class="button__input">Регистрация</button>
+            </div>
+        </form>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>
